@@ -1,0 +1,2 @@
+rootProject.name='Touch_Gestures'
+include ':app'
